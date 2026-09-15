@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+python-dotenv
+pandas
+pymupdf 
+langchain-text-splitters
+langchain
+sentence-transformers
+langchain-huggingface
+chromadb
+langchain-chroma
+langchain-groq
+streamlit
+pytesseract
+pillow
